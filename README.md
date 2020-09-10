@@ -28,4 +28,4 @@ I'm a web developer who likes to make stuff when he's bored
 
 the easiest way to contact me is through Discord. my username + tag is *red;#2787*
 
-##### I'm 100% down to collaborate with any project pretty much any time. I have a pretty good personal skills but I don't have much experience actually working with people. most of my projects I've done completely by myself which can get a little lonely and tedious sometimes
+##### I'm 100% down to collaborate with any project pretty much any time. I have pretty good personal skills but I don't have much experience actually working with people. most of my projects I've done completely by myself which can get a little lonely and tedious sometimes
