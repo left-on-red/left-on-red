@@ -1,16 +1,31 @@
-### Hi there 👋
+### hi there, my name is red;
 
-<!--
-**shadeRed/shadeRed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer who likes to make stuff when he's bored
 
-Here are some ideas to get you started:
+#### some of my skills include:
+- JavaScript
+- HTML
+- CSS
+- SCSS (Sass)
+- Node.js (backend JS)
+- C# (.NET)
+- a little bit of Python
+- I'm learning a little more about git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### some of the libraries that I have experience with are:
+- Discord.js (Node.js Discord API)
+- Bootstrap (CSS framework)
+- Socket.io (websockets)
+- Express (Node.js HTTP servers)
+
+#### some notable projects that I've done in the past include:
+- a small demo of a Pokemon Battle Simulator written in Java (was a final project for a class)
+- snake written in JavaScript (I was bored one day)
+
+***I'm currently working on*** a Discord Bot named Charisma using a Discord Bot engine that I've been developing. she's meant to be an all purpose Discord Bot with many features and she's coming along very nicely! once I get her to a 1.0 release, I plan to continue working on this project that I've named [Sylvir](https://github.com/shadeRed/sylvir)
+
+***I'm trying to learn*** more about how certain web communications work. many of my projects incorperate communication via servers/websites and that whole idea just fascinates me
+
+the easiest way to contact me is through Discord. my username + tag is *red;#2787*
+
+##### I'm 100% down to collaborate with any project pretty much any time. I have a pretty good personal skills but I don't have much experience actually working with people. most of my projects I've done completely by myself which can get a little lonely and tedious sometimes
