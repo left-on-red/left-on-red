@@ -20,7 +20,7 @@ I'm a web developer who likes to make stuff when he's bored
 
 #### some notable projects that I've done in the past include:
 - a small demo of a Pokemon Battle Simulator written in Java (was a final project for a class)
-- snake written in JavaScript (I was bored one day)
+- a demo of an "Ultimate" Animal Crossing: New Horizons wiki of sorts that I developed to further my understanding of web servers and how they work
 
 ***I'm currently working on*** a Discord Bot named Charisma using a Discord Bot engine that I've been developing. she's meant to be an all purpose Discord Bot with many features and she's coming along very nicely! once I get her to a 1.0 release, I plan to continue working on this project that I've named [Sylvir](https://github.com/shadeRed/sylvir)
 
