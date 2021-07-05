@@ -4,13 +4,13 @@ I'm a web developer who likes to make stuff when he's bored.
 
 #### Some of my skills include:
 - JavaScript
-- HTML
-- CSS
+- HTML/CSS
 - SCSS (Sass)
 - Node.js (backend JS)
 - C# (.NET)
+- Java
 - a little bit of Python
-- I'm learning a little more about git
+- Git Workflow
 
 #### Some of the libraries that I have experience with are:
 - [Discord.js](https://discord.js.org/) (Node.js Discord API)
