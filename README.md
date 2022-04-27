@@ -2,6 +2,8 @@
 
 I'm a web developer who likes to make stuff when he's bored.
 
+![shadeRed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadeRed&show_icons=true&theme=radical)
+
 #### Some of my skills include:
 - JavaScript
 - HTML/CSS
