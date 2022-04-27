@@ -2,7 +2,7 @@
 
 I'm a web developer who likes to make stuff when he's bored.
 
-![shadeRed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadeRed&show_icons=true&hide_border=true&title_color=f42069&icon_color=f42069&bg_color=240817&text_color=fff0f8)
+![shadeRed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadeRed&show_icons=true&hide_border=true&title_color=f42069&icon_color=f42069&bg_color=130717&text_color=fff0f8)
 
 #### Some of my skills include:
 - JavaScript
