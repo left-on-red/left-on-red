@@ -14,6 +14,8 @@ I'm a web developer who likes to make stuff when he's bored.
 - a little bit of Python
 - Git Workflow
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadeRed&layout=compact&exclude_repo=portfolio)
+
 #### Some of the libraries that I have experience with are:
 - [Discord.js](https://discord.js.org/) (Node.js Discord API)
 - [Bootstrap](https://getbootstrap.com/) (CSS framework)
