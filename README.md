@@ -2,7 +2,9 @@
 
 I'm a web developer who likes to make stuff when he's bored.
 
-![shadeRed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadeRed&show_icons=true&hide_border=true&title_color=f42069&icon_color=f42069&bg_color=130717&text_color=fff0f8)
+![shadeRed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadeRed&include_all_commits=true&show_icons=true&hide_border=true&title_color=f42069&icon_color=f42069&bg_color=130717&text_color=fff0f8)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadeRed&layout=compact&exclude_repo=portfolio&hide_border=true&title_color=f42069&bg_color=130717&text_color=fff0f8&card_width=450)
 
 #### Some of my skills include:
 - JavaScript
@@ -13,8 +15,6 @@ I'm a web developer who likes to make stuff when he's bored.
 - Java
 - a little bit of Python
 - Git Workflow
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadeRed&layout=compact&exclude_repo=portfolio)
 
 #### Some of the libraries that I have experience with are:
 - [Discord.js](https://discord.js.org/) (Node.js Discord API)
