@@ -2,9 +2,9 @@
 
 I'm a web developer who likes to make stuff when he's bored.
 
-![shadeRed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadeRed&include_all_commits=true&show_icons=true&hide_border=true&title_color=f42069&icon_color=f42069&bg_color=00000000&text_color=f42069&theme=radial)
+![shadeRed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=left-on-red&include_all_commits=true&show_icons=true&hide_border=true&title_color=f42069&icon_color=f42069&bg_color=00000000&text_color=f42069&theme=radial)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shadeRed&layout=compact&hide_border=true&title_color=f42069&bg_color=00000000&text_color=f42069&card_width=450&exclude_repo=portfolio)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=left-on-red&layout=compact&hide_border=true&title_color=f42069&bg_color=00000000&text_color=f42069&card_width=450&exclude_repo=portfolio)
 
 #### Some of my skills include:
 - JavaScript
